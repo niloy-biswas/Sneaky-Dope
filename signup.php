@@ -51,6 +51,12 @@
 			</select>
         </div>
         <div class="form-group">
+			<label>Upload three picture of your clear facial image</label>
+        	<input class="form-control" type="file" name="fileToUpload1"  required="upload you image">
+        	<input class="form-control" type="file" name="fileToUpload2"  required="upload you image">
+        	<input class="form-control" type="file" name="fileToUpload3"  required="upload you image">
+        </div>
+        <div class="form-group">
 			<label class="checkbox-inline"><input type="checkbox" required="required"> I accept the <a href="#">Terms of Use</a> &amp; <a href="#">Privacy Policy</a></label>
 		</div>
 		<div class="form-group">
