@@ -9,11 +9,11 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="css/signup_fuck.css">
+	<link rel="stylesheet" type="text/css" href="css/signup.css">
 </head>
 <body>
 <div class="signup-form">
-    <form action="" method="post">
+    <form action="" method="post" enctype="multipart/form-data">
 		<div class="form-header">
 			<h2>Sign Up</h2>
 			<p>Fill out this form and start chating with your friends</p>
@@ -52,9 +52,9 @@
         </div>
         <div class="form-group">
 			<label>Upload three picture of your clear facial image</label>
-        	<input class="form-control" type="file" name="fileToUpload1"  required="upload your image">
-        	<input class="form-control" type="file" name="fileToUpload2"  required="upload your image">
-        	<input class="form-control" type="file" name="fileToUpload3"  required="upload your image">
+        	<input class="form-control" type="file" name="pic_1"  required="upload your image">
+        	<input class="form-control" type="file" name="pic_2"  required="upload your image">
+        	<input class="form-control" type="file" name="pic_3"  required="upload your image">
         </div>
         <div class="form-group">
 			<label class="checkbox-inline"><input type="checkbox" required="required"> I accept the <a href="#">Terms of Use</a> &amp; <a href="#">Privacy Policy</a></label>

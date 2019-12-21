@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Sneaky Dope</title>
-	<link rel="stylesheet" type="text/css" href="css/index_fuck.css">
+	<link rel="stylesheet" type="text/css" href="css/index.css">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet' type='text/css'>
 </head>

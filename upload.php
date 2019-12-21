@@ -85,10 +85,10 @@ input[type="file"] {
 			<img src='$user_profile'>
 			<h1>$user_name</h1>
 			<form method='post' enctype='multipart/form-data'>
-			<label id='update_profile'><i class='fa fa-user-circle-o' aria-hidden='true'></i> Select Profile
+			<label id='update_profile'><i class='fa fa-user-circle-o' aria-hidden='true'></i> Select Picture
             <input type='file' name='u_image' size='60' />
             </label>
-            <button id='button_profile' name='update'>&nbsp &nbsp &nbsp<i class='fa fa-heart' aria-hidden='true'></i> Update Profile</button>
+            <button id='button_profile' name='update'>&nbsp &nbsp &nbsp<i class='fa fa-heart' aria-hidden='true'></i> Update Picture</button>
 			</form>
 		</div><br><br>
 		";
