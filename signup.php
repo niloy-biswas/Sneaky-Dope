@@ -20,7 +20,7 @@
 		</div>
         <div class="form-group">
 			<label>Username</label>
-        	<input type="text" class="form-control" placeholder="Example: niloy.swe" name="user_name" autocomplete="off" required="required">
+        	<input type="text" class="form-control" placeholder="Example: taz.swe" name="user_name" autocomplete="off" required="required">
         </div>
         <div class="form-group">
 			<label>Password</label>
@@ -28,7 +28,7 @@
         </div>
         <div class="form-group">
 			<label>Email Address</label>
-        	<input type="email" class="form-control" placeholder="niloy.swe@gmail.com" name="user_email" autocomplete="off" required="required">
+        	<input type="email" class="form-control" placeholder="taz.swe@gmail.com" name="user_email" autocomplete="off" required="required">
         </div>
         <div class="form-group">
 			<label>Country</label>
